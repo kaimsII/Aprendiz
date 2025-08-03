@@ -1,0 +1,1 @@
+02/08/2025 [21:11] -> Se saltara este nivel porque es sencillo y usar python lo vuelve mas complicado. 

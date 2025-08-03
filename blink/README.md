@@ -1,0 +1,1 @@
+Blink desde Python (controla un LED desde tu PC vía Arduino).

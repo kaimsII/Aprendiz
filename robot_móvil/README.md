@@ -1,0 +1,1 @@
+Robot móvil que avanza y evita obstáculos (sensor ultrasónico).

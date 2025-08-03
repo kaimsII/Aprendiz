@@ -1,0 +1,1 @@
+Lectura de sensores y envío a consola o archivo (temperatura, distancia).
